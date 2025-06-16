@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
